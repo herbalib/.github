@@ -12,7 +12,7 @@ Herbapedia is an Android-based mobile application that is used as a means of edu
 - Jasti Ohanna (C2320F2809) - Cloud Computing - Universitas Surabaya
 - Ayu Putri Rizkia (C2441W3031) - Cloud Computing - Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
-### Another Jagawana Github Path
+### Herbapedia Projects Github Path
 * [Cloud API](https://github.com/herbapedia/cloud-api)
 * [Machine Learning Model](https://github.com/herbapedia/ml-model)
 * [Mobile Apps Android](https://github.com/herbapedia/android-application)
